@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parvindar Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **JavaScript,Python**
+- 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **C,C++,Oops**
+- 💬 Ask me about **C,C++,Oops,Html Css Js**
 
-- 📫 How to reach me **programmerchad24@gmail.com**
+- 📫 How to reach me **parvindarsingh43958@gmail.com**
 
 - ⚡ Fun fact **I am Real Batman**
 
