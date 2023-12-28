@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
+<a href="https://x.com/parvinnnnnnnn?t=OOC560-73-AWCuCSdJZ7QQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/parvindar-s-629827251](https://x.com/parvinnnnnnnn?t=OOC560-73-AWCuCSdJZ7QQ&s=08)" height="50" width="60" /></a>
 <a href="https://www.linkedin.com/in/parvin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parvindar-s-629827251" height="50" width="60" /></a>
 
 <a href="https://medium.com/@parvindarsingh43958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@parvindarsingh43958" height="50" width="60" /></a>
