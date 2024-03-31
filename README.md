@@ -5,14 +5,14 @@
 
 - 💬 Ask me about **C,C++,Oops,Html Css Js**
 
-- 📫 How to reach me **parvindarsingh43958@gmail.com**
+- 📫 How to reach me <a href="https://twitter.com/parvindar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/dcdc48a561e3db6e6caa2002f14d77f68aa01ed6/svgs/brands/x-twitter.svg" alt="https://twitter.com/parvindar47" height="50" width="60" /></a>
 
 - ⚡ Fun fact **I am Real Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://x.com/parvinnnnnnnn?t=OOC560-73-AWCuCSdJZ7QQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/dcdc48a561e3db6e6caa2002f14d77f68aa01ed6/svgs/brands/x-twitter.svg" alt="https://x.com/parvinnnnnnnn?t=OOC560-73-AWCuCSdJZ7QQ&s=08)" height="50" width="60" /></a>
+<a href="https://twitter.com/parvindar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/dcdc48a561e3db6e6caa2002f14d77f68aa01ed6/svgs/brands/x-twitter.svg" alt="https://twitter.com/parvindar47" height="50" width="60" /></a>
 
 <a href="https://www.linkedin.com/in/parvin7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/parvindar-s-629827251" height="50" width="60" /></a>
 
