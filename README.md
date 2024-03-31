@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parvindar Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C,C++,Oops,Html Css Js**
+- 💬 Ask me about **C,C++,Oops,Html Css Js,Java,Python**
 
-- 📫 How to reach me <a href="https://twitter.com/parvindar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/dcdc48a561e3db6e6caa2002f14d77f68aa01ed6/svgs/brands/x-twitter.svg" alt="https://twitter.com/parvindar47" height="50" width="60" /></a>
-
-- ⚡ Fun fact **I am Real Batman**
+- 📫 How to reach me ( Just Dm here ) <a href="https://twitter.com/parvindar47" target="blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/dcdc48a561e3db6e6caa2002f14d77f68aa01ed6/svgs/brands/x-twitter.svg" alt="https://twitter.com/parvindar47" height="50" width="60" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
