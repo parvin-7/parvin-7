@@ -1,14 +1,16 @@
-<h1 align="center">👋 Hey, I'm Parvindar Singh</h1>  
 <p align="center">
-  🚀 Full Stack Developer | 💻 MERN Enthusiast | 🌌 Tech Explorer
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Parvindar%20Singh%20👨‍💻&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>  
+
+<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Tech Explorer 🌌</h3>  
 
 ---
 
-## 🚀 About Me  
-- 🎯 Passionate about building **scalable full-stack applications**  
-- 💡 Exploring **cloud, databases & modern frontend libraries**  
-- 📚 Lifelong learner, currently diving deeper into **TypeScript & Supabase**  
+## 👨‍💻 About Me  
+- 💡 Passionate about **scalable full-stack applications**  
+- 🔥 Skilled in **React, Node.js, TypeScript, and Cloud Integrations**  
+- 🌱 Currently diving deeper into **Supabase & DevOps**  
+- 🎯 Goal: Build impactful projects and grow as a **problem-solver**  
 
 ---
 
@@ -68,5 +70,8 @@
 </p>  
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=100&section=footer" />
+</p> 
 
 ⭐️ *"Code. Learn. Build. Repeat."*  
