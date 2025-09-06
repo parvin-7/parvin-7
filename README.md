@@ -63,10 +63,8 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/parvindar-singh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://app.daily.dev/" target="_blank"><img src="https://img.shields.io/badge/DailyDev-2E2E2E?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/parvin7" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://app.daily.dev/parvindarsingh" target="_blank"><img src="https://img.shields.io/badge/DailyDev-2E2E2E?style=for-the-badge&logo=daily.dev&logoColor=white" /></a>
 </p>  
 
 ---
